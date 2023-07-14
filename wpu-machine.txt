@@ -1,0 +1,3 @@
+wpu-machine
+-saya konsiten untuk mempelajari apa itu machine learning
+-untuk membuat form
